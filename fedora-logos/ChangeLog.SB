@@ -1,0 +1,32 @@
+Mon Jun  2 17:04:29 BRT 2008
+fedora-logos-9.0.1-noarch-1xinc.tgz:
+Updated to 9.0.1.
+Moved slack-artwork things to bluecurve-icon-theme package.
++--------------------------+
+Sat Apr 12 19:47:11 BRT 2008
+fedora-logos-9.0.0-noarch-1xinc.tgz:
+Updated to 9.0.0.
+Added legacy artwork.
++--------------------------+
+Sat Nov 17 14:47:02 BRST 2007
+fedora-logos-8.0.3-noarch-1xinc.tgz:
+Added xml files for extra backgrounds.
+Fixed FedoraFlyingHigh installation.
++--------------------------+
+Wed Oct 31 17:07:17 BRST 2007
+fedora-logos-8.0.2-noarch-1xinc.tgz:
+Updated to 8.0.2.
++--------------------------+
+Mon Oct 22 23:37:21 BRST 2007
+fedora-logos-8.0.0-noarch-1xinc.tgz:
+Updated to 8.0.0.
+Some cleanups.
++--------------------------+
+Tue Jul 17 16:51:53 BRT 2007
+fedora-logos-6.0.98-noarch-2xinc.tgz:
+REbuilt with /usr prefix.
++--------------------------+
+Mon Jun 18 23:15:55 BRT 2007
+fedora-logos-6.0.98-noarch-1xinc.tgz:
+First SB.
++--------------------------+

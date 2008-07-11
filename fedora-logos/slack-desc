@@ -1,0 +1,12 @@
+            |-----handy-ruler------------------------------------------------------|
+fedora-logos: fedora-logos (Fedora-related icons and pictures)
+fedora-logos:
+fedora-logos: The fedora-logos package (the "Packages") contain image files which
+fedora-logos: incorporate the Fedora trademark and the RPM logo (the "Marks").
+fedora-logos: The Marks are trademarks or registered trademarks of Red Hat, Inc.
+fedora-logos: in the United States and other countries and are used by permission.
+fedora-logos: See the included COPYING file for information on copying and
+fedora-logos: redistribution.
+fedora-logos:
+fedora-logos:
+fedora-logos: Packager: _PACKAGER on _BUILD_DATE
